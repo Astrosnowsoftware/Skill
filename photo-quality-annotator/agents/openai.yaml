@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片质量标注器"
+  short_description: "识别内容、打标签并精选照片"
+  default_prompt: "Use $photo-quality-annotator to annotate content, tag quality issues, and copy only the best passing photos from a folder."
